@@ -38,7 +38,7 @@ echo "hello world"
 hello world
 ```
 
-That's it! If you're a bit confused, here's a video that goes through these steps, along with describing the basic structure of Makefiles.
+That's it! If you're a bit confused, here's a [video](https://youtu.be/zeEMISsjO38) that goes through these steps, along with describing the basic structure of Makefiles.
 
 ## Makefile Syntax
 
